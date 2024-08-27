@@ -1,0 +1,3 @@
+1001;Lucas;Diaz;lucas@gmail.com;989987987;Av. RDJ 2320;Administrador;Activo;admin;123;admin
+1002;Pedro;Perez;perez@gmail.com;987654000;Trujillo;Secretario;Activo;secretario;123;admin
+1003;Mario;Lezama;lezama@gmail.com;963258741;Trujillo;Entrenador;Activo;entrenador;123;admin

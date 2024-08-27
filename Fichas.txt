@@ -1,0 +1,4 @@
+4001;Sub-17;Derecha;Portero;2;5;3;2;2;3;4;2;2;2;2;2;5;admin
+4002;Sub-14;Izquierda;Delantero Centro;3;3;3;3;3;3;3;3;3;3;3;3;3;admin
+4003;Sub-12;Derecha;Medio Centro;2;4;4;4;5;5;4;4;3;4;4;5;4;entrenador
+4004;Sub-13;Derecha;Medio Ofensivo;5;5;5;5;5;5;5;5;5;5;5;5;5;entrenador
